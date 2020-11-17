@@ -1,2 +1,3 @@
 # Animal-cards
-react app
+
+See here: https://eshux.github.io/Animal-cards/
